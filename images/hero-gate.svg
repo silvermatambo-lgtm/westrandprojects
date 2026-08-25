@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#08245d"/><stop offset="1" stop-color="#020815"/></linearGradient><linearGradient id="gold" x1="0" x2="1"><stop stop-color="#ffb20f"/><stop offset="1" stop-color="#ff7a00"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#sky)"/><circle cx="1320" cy="180" r="160" fill="#156bd9" opacity=".18"/><rect y="640" width="1600" height="260" fill="#111827"/>
+<g fill="#e8edf5"><rect x="930" y="165" width="510" height="375" rx="6"/><rect x="990" y="250" width="110" height="170" fill="#17243d"/><rect x="1180" y="250" width="110" height="170" fill="#17243d"/></g>
+<g fill="#0b111e"><rect x="180" y="310" width="830" height="36"/><rect x="180" y="380" width="830" height="36"/><rect x="180" y="450" width="830" height="36"/><rect x="180" y="520" width="830" height="36"/><rect x="160" y="265" width="35" height="330"/><rect x="1008" y="265" width="35" height="330"/></g>
+<rect x="1060" y="510" width="130" height="170" rx="25" fill="#0c6636" stroke="#75db9d" stroke-width="5"/><rect x="1090" y="545" width="70" height="55" rx="7" fill="#13223a"/><text x="1125" y="580" text-anchor="middle" font-family="Arial Black" font-size="22" fill="#fff">D5</text><text x="1125" y="625" text-anchor="middle" font-family="Arial" font-size="19" fill="#fff">SMART</text>
+<g fill="#151b26" stroke="#d8e1ee" stroke-width="4"><rect x="1220" y="560" width="70" height="125" rx="30"/><rect x="1305" y="545" width="70" height="140" rx="30"/></g><g fill="#fff"><circle cx="1254" cy="590" r="7"/><circle cx="1254" cy="618" r="7"/><circle cx="1339" cy="580" r="7"/><circle cx="1339" cy="610" r="7"/><circle cx="1339" cy="640" r="7"/></g>
+<path d="M0 800 C380 710 680 860 1050 760S1450 730 1600 780V900H0Z" fill="url(#gold)" opacity=".12"/>
+</svg>

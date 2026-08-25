@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 220">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#ffb20f"/><stop offset="1" stop-color="#ff7a00"/></linearGradient></defs>
+<rect width="760" height="220" rx="30" fill="#07142b"/>
+<g transform="translate(26 24)"><circle cx="86" cy="86" r="62" fill="none" stroke="url(#g)" stroke-width="13" stroke-dasharray="18 7"/><circle cx="86" cy="86" r="43" fill="#0b2c6b"/><text x="86" y="105" text-anchor="middle" font-family="Arial Black,Arial" font-size="58" fill="#fff">WP</text></g>
+<text x="180" y="91" font-family="Arial Black,Arial" font-size="56" fill="#fff" letter-spacing="2">WESTRAND</text>
+<text x="181" y="140" font-family="Arial Black,Arial" font-size="42" fill="#ffb20f" letter-spacing="5">PROJECTS</text>
+<text x="181" y="176" font-family="Arial,Helvetica" font-size="19" fill="#c9d7ef" letter-spacing="1">GATE MOTORS • GARAGE DOORS • SECURITY • POOLS • PAVING</text>
+</svg>
