@@ -13,9 +13,10 @@ window.SITE = {
   colors: { primary: "#0b2c6b", secondary: "#1064d8", accent: "#ffb20f", dark: "#061326" },
   nav: [["Home","/"],["About","/about.html"],["Services","/services.html"],["Gallery","/gallery.html"],["Contact","/contact.html"]],
   hero: [
-    {image:"/images/hero-gate.svg",heading:"Gate Motors & Automation",phrases:["Centurion D5 Smart installations","Repairs, maintenance & calibration","Remotes and access control"]},
-    {image:"/images/hero-pool.svg",heading:"Pools, Paving & Property Projects",phrases:["Swimming pools built from scratch","Professional paving solutions","Residential property improvements"]},
-    {image:"/images/hero-security.svg",heading:"Security Systems That Protect",phrases:["Electric fencing","CCTV surveillance","Alarm systems for homes & businesses"]}
+    {image:"https://neonsales.co.za/cdn/shop/articles/gm.webp?v=1775141882",heading:"Automated Sliding Gates & Gate Motors",phrases:["Centurion D5 Smart installations","Gate motor repairs, maintenance & calibration","Remote access and secure entry systems"]},
+    {image:"https://img.jamesedition.com/listing_images/2025/09/16/18/16/56/c762ab1c-c173-48e3-ae29-9e29ee2c7a1a/je/1100xxs.jpg",heading:"Garage Doors & Automation",phrases:["Sectional, roller shutter and tilt-up doors","Motorised garage door systems","Remotes, receivers and access control"]},
+    {image:"https://poolbuilders.co.za/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-03-at-08.54.04-2-1024x768.jpeg",heading:"Swimming Pools Built From Scratch",phrases:["New pool construction","Pool surrounds and paving","Residential outdoor upgrades"]},
+    {image:"https://www.globalsecuritysolutions.co.za/blog/perimeter-security-layers-hero.png",heading:"Electric Fencing, CCTV & Alarm Systems",phrases:["Perimeter electric fencing","CCTV camera installations","Alarm and access security upgrades"]}
   ],
   about: {
     heading:"Property Automation, Security & Construction Specialists",
@@ -27,18 +28,18 @@ window.SITE = {
     values:["Direct Owner Accountability","Precision Workmanship","Rapid Response Diagnostics","Quality Systems","15+ Years Experience"]
   },
   services:[
-    {title:"Gate Motor Installation",text:"Centurion D5 Smart and other leading gate motor systems supplied, installed, configured and commissioned for secure access."},
-    {title:"Gate Motor Repairs & Maintenance",text:"Fault finding, servicing, mechanical alignment, sensor checks, motor repairs and system optimisation for automatic gates."},
-    {title:"Garage Doors — All Types",text:"Installation and service for sectional, roller shutter, tilt-up, side-hinged and aluminium garage doors across leading brands."},
-    {title:"Garage Door Automation",text:"Automation motors, remotes, receivers, safety devices, calibration and maintenance for reliable garage access."},
-    {title:"Remotes & Access Control",text:"Remote programming, receiver systems, access control devices and secure entry solutions for homes, estates and businesses."},
-    {title:"Swimming Pools Built From Scratch",text:"Complete new pool construction from excavation and structure through finishing, plumbing and project completion."},
-    {title:"Paving & Property Works",text:"Driveway, courtyard, pathway and residential paving plus related housing and property improvement works."},
-    {title:"Electric Fencing",text:"Electric fence installation, upgrades, fault finding and perimeter security solutions for residential and commercial properties."},
-    {title:"CCTV Surveillance",text:"Camera system installation and setup for homes, businesses and industrial properties, with practical coverage planning."},
-    {title:"Alarm Systems",text:"Intruder alarm system installation, upgrades and maintenance to strengthen property security and response readiness."},
-    {title:"Residential, Commercial & Industrial",text:"Flexible project delivery across homes, offices, retail sites, complexes, warehouses and industrial properties."},
-    {title:"System Calibration & Diagnostics",text:"Precise mechanical and electronic calibration, rapid-response diagnostics and corrective work to extend system life."}
+    {title:"Automated Sliding Gates",text:"Modern sliding gate automation for residential, commercial and industrial properties, including motor installation, configuration, safety checks and access setup.",image:"https://static.wixstatic.com/media/b83c20_578c246facc44a31860a28a32050926a~mv2.jpg/v1/fill/w_1000%2Ch_667%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/b83c20_578c246facc44a31860a28a32050926a~mv2.jpg"},
+    {title:"Gate Motor Installation",text:"Centurion D5 Smart and other leading gate motor systems supplied, installed, configured and commissioned for secure access.",image:"https://neonsales.co.za/cdn/shop/articles/gm.webp?v=1775141882"},
+    {title:"Gate Motor Repairs & Maintenance",text:"Fault finding, servicing, mechanical alignment, sensor checks, motor repairs and system optimisation for automatic gates.",image:"https://neonsales.co.za/cdn/shop/articles/gm.webp?v=1775141882"},
+    {title:"Garage Doors — All Types",text:"Installation and service for sectional, roller shutter, tilt-up, side-hinged and aluminium garage doors across leading brands.",image:"https://img.jamesedition.com/listing_images/2025/09/16/18/16/56/c762ab1c-c173-48e3-ae29-9e29ee2c7a1a/je/1100xxs.jpg"},
+    {title:"Garage Door Automation",text:"Automation motors, remotes, receivers, safety devices, calibration and maintenance for reliable garage access.",image:"https://img.jamesedition.com/listing_images/2025/09/16/18/16/56/c762ab1c-c173-48e3-ae29-9e29ee2c7a1a/je/1100xxs.jpg"},
+    {title:"Remotes & Access Control",text:"Remote programming, receiver systems, access control devices and secure entry solutions for homes, estates and businesses.",image:"https://automatedgatesupply.net/wp-content/uploads/2025/08/smart-access-controls-driveway-gate.png"},
+    {title:"Swimming Pools Built From Scratch",text:"Complete new pool construction from excavation and structure through finishing, plumbing and project completion.",image:"https://poolbuilders.co.za/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-03-at-08.54.04-2-1024x768.jpeg"},
+    {title:"Paving & Property Works",text:"Driveway, courtyard, pathway and residential paving plus related housing and property improvement works.",image:"https://img.jamesedition.com/listing_images/2025/09/16/18/16/56/c762ab1c-c173-48e3-ae29-9e29ee2c7a1a/je/1100xxs.jpg"},
+    {title:"Electric Fencing",text:"Electric fence installation, upgrades, fault finding and perimeter security solutions for residential and commercial properties.",image:"https://www.globalsecuritysolutions.co.za/blog/perimeter-security-layers-hero.png"},
+    {title:"CCTV Surveillance",text:"Camera system installation and setup for homes, businesses and industrial properties, with practical coverage planning.",image:"https://www.globalsecuritysolutions.co.za/blog/perimeter-security-layers-hero.png"},
+    {title:"Alarm Systems",text:"Intruder alarm system installation, upgrades and maintenance to strengthen property security and response readiness.",image:"https://shockoloza.co.za/img/installations/installation-03.jpg"},
+    {title:"Residential, Commercial & Industrial",text:"Flexible project delivery across homes, offices, retail sites, complexes, warehouses and industrial properties.",image:"https://www.globalsecuritysolutions.co.za/blog/perimeter-security-layers-hero.png"}
   ],
   stats:[
     {value:15,suffix:"+",label:"Years Experience"},
@@ -47,12 +48,14 @@ window.SITE = {
     {value:2,suffix:"",label:"Direct Contact Lines"}
   ],
   gallery:[
-    {url:"/images/hero-gate.svg",alt:"Automated sliding gate and gate motor installation"},
-    {url:"/images/garage-doors.svg",alt:"Garage door types and automation solutions"},
-    {url:"/images/hero-pool.svg",alt:"Swimming pool construction and paving"},
-    {url:"/images/paving.svg",alt:"Residential driveway and paving project"},
-    {url:"/images/hero-security.svg",alt:"Electric fence, CCTV and alarm security systems"},
-    {url:"/images/access-control.svg",alt:"Remote controls and access automation"}
+    {url:"https://neonsales.co.za/cdn/shop/articles/gm.webp?v=1775141882",alt:"Automated sliding gate and gate motor installation"},
+    {url:"https://static.wixstatic.com/media/b83c20_578c246facc44a31860a28a32050926a~mv2.jpg/v1/fill/w_1000%2Ch_667%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/b83c20_578c246facc44a31860a28a32050926a~mv2.jpg",alt:"Modern automatic sliding gate installation"},
+    {url:"https://img.jamesedition.com/listing_images/2025/09/16/18/16/56/c762ab1c-c173-48e3-ae29-9e29ee2c7a1a/je/1100xxs.jpg",alt:"Modern residential garage door and paving"},
+    {url:"https://poolbuilders.co.za/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-03-at-08.54.04-2-1024x768.jpeg",alt:"Luxury swimming pool construction"},
+    {url:"https://amazingarchitecture.com/storage/files/1/architecture-firms/nico-van-der-meulen-architects/sandton-residence/sandton_residence_johannesburg_nico_van_der_meulen_architects-04.jpg",alt:"Premium pool and outdoor property works"},
+    {url:"https://www.globalsecuritysolutions.co.za/blog/perimeter-security-layers-hero.png",alt:"Electric fencing CCTV and access security"},
+    {url:"https://automatedgatesupply.net/wp-content/uploads/2025/08/smart-access-controls-driveway-gate.png",alt:"Remote and access control system"},
+    {url:"https://shockoloza.co.za/img/installations/installation-03.jpg",alt:"Electric fence and alarm security installation"}
   ],
   faqs:[
     {q:"Which gate motor brands do you work with?",a:"We work with Centurion and other leading automation brands, including systems from Nice, ET Systems, FAAC, Sommer, DEA, Gemini and LiftMaster depending on the project."},
